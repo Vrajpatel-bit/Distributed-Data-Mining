@@ -29,15 +29,19 @@ privacy preserving of distributed data mining.
 ## Visuals
 
 - Process Of Data Mining:-
+
   ![Process Of Data Mining](https://github.com/Vrajpatel-bit/Distributed-Data-Mining/blob/main/Process%20Of%20Data%20Mining.jpeg?raw=true)
   
 - Process Of Distributed Data Mining:-
+
   ![Process Of Distributed Data Mining](https://github.com/Vrajpatel-bit/Distributed-Data-Mining/blob/main/Process%20Of%20Distributed%20Data%20Mining.jpeg?raw=true)
 
 - Process Of Meta Learning:-
+
   ![Process Of Meta Learning](https://github.com/Vrajpatel-bit/Distributed-Data-Mining/blob/main/Process%20of%20meta%20learning.jpeg?raw=true)
 
 - Distributed Frequent Itemset Mining:-
+
   ![Distributed Frequent Itemset Mining](https://github.com/Vrajpatel-bit/Distributed-Data-Mining/blob/main/Distributed%20Frequent%20Itemset%20Mining.jpeg?raw=true)
 
 ## Usage
