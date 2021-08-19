@@ -82,7 +82,7 @@ First of all, I want to thank Dr. Trevor Tomesh for providing me with this great
   
 ## Project Status
 
-In this we can improve the efficiency by trying different appraches and techniques to get bettwe results and therefore our analyzation and prediction will perfrom accurately.   
+In this we can improve the efficiency by trying different appraches and techniques to get better results and therefore our analyzation and prediction will perfrom accurately.   
 ## Authors
 
 - [Vraj Patel](https://github.com/Vrajpatel-bit)
